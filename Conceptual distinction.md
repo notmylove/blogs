@@ -16,4 +16,4 @@ DL：从大量的数据中发现有价值的信息过程
 **深度学习：一种实现机器学习的技术**
 
 深度学习是一种更高级的机器学习方法，以深度神经网络为基础，用于建立、模拟人脑进行分析学习的神经网络，并模仿人脑的机制来解释数据的一种机器学习技术
-深度学习又分为卷积神经网络（Convolutional neural networks，简称CNN）和深度置信网（Deep Belief Nets，简称DBN）
+深度学习又分为卷积神经网络（Convolutional neural networks，简称CNN）和深度置信网（Deep Belief Nets，简称DBN）等
